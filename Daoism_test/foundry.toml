@@ -1,0 +1,6 @@
+[default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+remappings = ["@openzeppelin/=lib/openzeppelin-contracts/","@gnosis/=lib/zodiac/","@openzeppelinupgradeable/=lib/openzeppelin-contracts-upgradeable/"] 
+# See more config options https://github.com/gakonst/foundry/tree/master/config
